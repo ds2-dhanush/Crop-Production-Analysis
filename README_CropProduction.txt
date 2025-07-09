@@ -100,4 +100,4 @@ Random Forest Regressor, Sklearn LabelEncoders, Streamlit, Python 3.10
 ---
 
 ## Author
-Dhanush R – [Portfolio](https://yourusername.github.io)
+Dhanush R – [Portfolio](https://ds2-dhanush.github.io/My-Portfolio/)
